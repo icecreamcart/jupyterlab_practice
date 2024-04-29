@@ -1,0 +1,8 @@
+name: dstoolbox7
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - jupyterlab
+
